@@ -1,4 +1,4 @@
-# JOAQUIM BARRETO
+# LYZ
 
 This project is the personal website of Joaquim Barreto
 
