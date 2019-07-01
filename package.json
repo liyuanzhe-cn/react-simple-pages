@@ -1,7 +1,8 @@
 {
-  "name": "barreto-co",
+  "name": "LYZ-REACT",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://liyuanzhe-cn.github.io/react-simple-personal-pages",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",

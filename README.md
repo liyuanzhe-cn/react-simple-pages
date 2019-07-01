@@ -1,6 +1,6 @@
-# JOAQUIM BARRETO
+# LYZ - REACT
 
-This project is the personal website of Joaquim Barreto
+This project is the personal website of LYZ
 
 ## Technologies
 
