@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # LYZ - REACT
+=======
+# LYZ
+>>>>>>> d6956c717698ac9d204776dec832e05d23135fc5
 
 This project is the personal website of LYZ
 
