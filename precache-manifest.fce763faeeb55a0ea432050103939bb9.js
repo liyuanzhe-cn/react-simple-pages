@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/react-simple-personal-pages/static/media/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "9c74e172f87984c48ddf5c8108cabe67",
-    "url": "/react-simple-personal-pages/static/media/flags.9c74e172.png"
-  },
-  {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
     "url": "/react-simple-personal-pages/static/media/outline-icons.701ae6ab.eot"
   },
   {
     "revision": "ad97afd3337e8cda302d10ff5a4026b8",
     "url": "/react-simple-personal-pages/static/media/outline-icons.ad97afd3.ttf"
+  },
+  {
+    "revision": "9c74e172f87984c48ddf5c8108cabe67",
+    "url": "/react-simple-personal-pages/static/media/flags.9c74e172.png"
   },
   {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/react-simple-personal-pages/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "5aebc20bc40e1a881a47bb8029864436",
+    "revision": "6855b6f003b0cd9ed816162bc0cc4a9d",
     "url": "/react-simple-personal-pages/index.html"
   }
 ];
