@@ -1,16 +1,17 @@
 {
   "main.css": "/react-simple-personal-pages/static/css/main.edab5777.chunk.css",
-  "main.js": "/react-simple-personal-pages/static/js/main.bce808ed.chunk.js",
-  "main.js.map": "/react-simple-personal-pages/static/js/main.bce808ed.chunk.js.map",
+  "main.js": "/react-simple-personal-pages/static/js/main.994c1fe7.chunk.js",
+  "main.js.map": "/react-simple-personal-pages/static/js/main.994c1fe7.chunk.js.map",
   "runtime~main.js": "/react-simple-personal-pages/static/js/runtime~main.ca23a312.js",
   "runtime~main.js.map": "/react-simple-personal-pages/static/js/runtime~main.ca23a312.js.map",
   "static/css/2.47bf4b8d.chunk.css": "/react-simple-personal-pages/static/css/2.47bf4b8d.chunk.css",
-  "static/js/2.6e112f12.chunk.js": "/react-simple-personal-pages/static/js/2.6e112f12.chunk.js",
-  "static/js/2.6e112f12.chunk.js.map": "/react-simple-personal-pages/static/js/2.6e112f12.chunk.js.map",
+  "static/js/2.9a7b358c.chunk.js": "/react-simple-personal-pages/static/js/2.9a7b358c.chunk.js",
+  "static/js/2.9a7b358c.chunk.js.map": "/react-simple-personal-pages/static/js/2.9a7b358c.chunk.js.map",
   "index.html": "/react-simple-personal-pages/index.html",
-  "precache-manifest.fce763faeeb55a0ea432050103939bb9.js": "/react-simple-personal-pages/precache-manifest.fce763faeeb55a0ea432050103939bb9.js",
+  "precache-manifest.e5f9197996e0523fd2d6fb6e8724946f.js": "/react-simple-personal-pages/precache-manifest.e5f9197996e0523fd2d6fb6e8724946f.js",
   "service-worker.js": "/react-simple-personal-pages/service-worker.js",
   "static/css/2.47bf4b8d.chunk.css.map": "/react-simple-personal-pages/static/css/2.47bf4b8d.chunk.css.map",
   "static/css/main.edab5777.chunk.css.map": "/react-simple-personal-pages/static/css/main.edab5777.chunk.css.map",
-  "static/media/semantic.min.css": "/react-simple-personal-pages/static/media/outline-icons.ef60a4f6.woff"
+  "static/media/semantic.min.css": "/react-simple-personal-pages/static/media/outline-icons.ef60a4f6.woff",
+  "static/media/lyz.jpg": "/react-simple-personal-pages/static/media/lyz.f775badc.jpg"
 }
