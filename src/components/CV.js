@@ -28,7 +28,7 @@ const CV = () => (
         <Grid.Row>
           <Grid.Column>
             <Header as="h3" style={{ fontSize: "2em" }}>
-              关于我：
+              关于我 ：
             </Header>
             <p style={{ fontSize: "1.33em" }}>
               web前端一名，掌握HTML5, CSS3, VUE, REACT, Express框架。

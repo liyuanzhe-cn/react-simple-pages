@@ -12,6 +12,7 @@ import ResponsiveContainer from "../containers/ResponsiveContainer";
 import { Link } from "react-router-dom";
 import img from '../asset/lyz.jpg';
 
+
 const Contact = () => (
   <ResponsiveContainer>
     <Segment style={{ padding: "8em 0em" }} vertical>
@@ -22,10 +23,10 @@ const Contact = () => (
               联系方式：
             </Header>
             <p style={{ fontSize: "1.33em" }}>
-              <strong>电话:</strong> 13704378190
+              <strong>电话 :</strong> 13704378190
             </p>
             <p style={{ fontSize: "1.33em" }}>
-              <strong>Email:</strong> liyuanzhe_cn@163.com
+              <strong>Email :</strong> liyuanzhe_cn@163.com
             </p>
           </Grid.Column>
           <Grid.Column floated="right" width={6}>

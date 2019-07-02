@@ -107,7 +107,7 @@ const HomePage = () => (
           <Link to="/projects">其他项目</Link>
         </Divider>
         <Header as="h3" style={{ fontSize: "2em" }}>
-          Samurai日料店连锁店网站。
+          Samurai日料店连锁店网站
         </Header>
         <p style={{ fontSize: "1.33em" }}>
           使用jquery和jquery插件开发的三语言站点MPA应用。

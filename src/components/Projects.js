@@ -57,7 +57,7 @@ const Projects = () => (
         </Button>
         <Divider style={{ margin: "2em 1em" }} />
         <Header as="h3" style={{ fontSize: "2em" }}>
-          宝马街panda旅游
+          pandasfly旅游
         </Header>
         <p style={{ fontSize: "1.33em" }}>
           使用jquery 和jquery插件配合后端开发接机旅游网站， 包含登录注册，短信验证，接机，旅游线路，车型，人数，日期选择和预定等功能。（该业务被取消，项目下线）
