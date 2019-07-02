@@ -11,6 +11,8 @@ import {
 } from "semantic-ui-react";
 import ResponsiveContainer from "../containers/ResponsiveContainer";
 import { Link } from "react-router-dom";
+import img from '../asset/lyz.jpg';
+import githubImage from '../asset/github.png';
 
 const HomePage = () => (
   <ResponsiveContainer>
@@ -30,7 +32,7 @@ const HomePage = () => (
               bordered
               rounded
               size="large"
-              src="/images/lyz.jpg"
+              src={img}
             />
           </Grid.Column>
         </Grid.Row>
@@ -54,7 +56,7 @@ const HomePage = () => (
             <p style={{ fontSize: "1.33em" }}>
               <Image
                 avatar
-                src="/images/github.png"
+                src={githubImage}
                 href="https://github.com/liyuanzhe-cn"
                 target="_blank"
               />
@@ -105,7 +107,7 @@ const HomePage = () => (
           <Link to="/projects">其他项目</Link>
         </Divider>
         <Header as="h3" style={{ fontSize: "2em" }}>
-          <a href="https://samurai.pt"> samurai日料店连锁店网站。</a>
+          Samurai日料店连锁店网站。
         </Header>
         <p style={{ fontSize: "1.33em" }}>
           使用jquery和jquery插件开发的三语言站点MPA应用。

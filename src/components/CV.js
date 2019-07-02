@@ -31,7 +31,8 @@ const CV = () => (
               关于我：
             </Header>
             <p style={{ fontSize: "1.33em" }}>
-              web前端一名，掌握HTML5, CSS3, VUE, REACT 框架。
+              web前端一名，掌握HTML5, CSS3, VUE, REACT, Express框架。
+               <br />
               本人热爱计算机技术，留学期间（通过YouTube，腾讯课堂，文档博客，stackoverflow等渠道）自学钻研WEB前端开发技术， 掌握Vue，React、Node， Express和数据库，开发经验多个前后端分离项目，喜欢精益求精， 英语词汇量丰富， 理解英文技术文档， 并打算将开发工作作为未来长期发展的事业。
             </p>
           </Grid.Column>
@@ -396,7 +397,7 @@ const CV = () => (
         </Grid>
       </Container>
     </Segment>
-  </ResponsiveContainer>
+  </ResponsiveContainer >
 );
 
 export default CV;

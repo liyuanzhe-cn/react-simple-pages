@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# LYZ - REACT
-=======
-# LYZ
->>>>>>> d6956c717698ac9d204776dec832e05d23135fc5
+# LYZ - REACT - simple - presentation
 
-This project is the personal website of LYZ
+This project is the personal presentation website of LYZ
 
 ## Technologies
 

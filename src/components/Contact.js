@@ -10,6 +10,7 @@ import {
 } from "semantic-ui-react";
 import ResponsiveContainer from "../containers/ResponsiveContainer";
 import { Link } from "react-router-dom";
+import img from '../asset/lyz.jpg';
 
 const Contact = () => (
   <ResponsiveContainer>
@@ -32,7 +33,7 @@ const Contact = () => (
               bordered
               rounded
               size="large"
-              src="/images/lyz.jpg"
+              src={img}
             />
           </Grid.Column>
         </Grid.Row>
