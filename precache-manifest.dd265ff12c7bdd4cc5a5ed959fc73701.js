@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a262f8c8f64ed078990f",
+    "revision": "3835952b8ded1d4c346a",
     "url": "/react-simple-personal-pages/static/css/main.edab5777.chunk.css"
   },
   {
-    "revision": "a262f8c8f64ed078990f",
-    "url": "/react-simple-personal-pages/static/js/main.994c1fe7.chunk.js"
+    "revision": "3835952b8ded1d4c346a",
+    "url": "/react-simple-personal-pages/static/js/main.79e58be4.chunk.js"
   },
   {
     "revision": "52e7f9122eca43a31298",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/react-simple-personal-pages/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/react-simple-personal-pages/static/media/outline-icons.cd6c777f.woff2"
-  },
-  {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/react-simple-personal-pages/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/react-simple-personal-pages/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/react-simple-personal-pages/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "256cbe4ba70d6c47ea88faeefc4d6f25",
+    "revision": "80d40c8bc8b21c0362cc315dfca69bd6",
     "url": "/react-simple-personal-pages/index.html"
   }
 ];
